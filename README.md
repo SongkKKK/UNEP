@@ -1,2 +1,2 @@
 # UNEP
-General-purpose machine-learned potential for 16 elemental metals and their alloys
+create-hcp-bcc-fcc.py:批量构建bcc,fcc,hcp构型。
