@@ -12,3 +12,5 @@ largeforce.py: 删除大力构型
 generte.py：批量产生bcc,fcc,hcp二元合金构型
 
 20.py: 挑选20种元素组合的构型
+
+binary-fcc.py： 批量构建二元fcc合金构型
