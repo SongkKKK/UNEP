@@ -10,3 +10,5 @@ Select-element-configuration.py: 按元素组合挑选构型
 largeforce.py: 删除大力构型
 
 generte.py：批量产生bcc,fcc,hcp二元合金构型
+
+20.py: 挑选20种元素组合的构型
