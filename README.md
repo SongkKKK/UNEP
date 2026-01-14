@@ -16,3 +16,5 @@ generte.py：批量产生bcc,fcc,hcp二元合金构型
 binary-fcc.py： 批量构建二元fcc合金构型
 
 disturb.py:    晶格和原子位子微扰
+
+binary-bcc-fcc-hcp.py：批量构建不同成分二元bcc、fcc和hcp合金构型
