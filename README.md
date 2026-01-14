@@ -26,3 +26,5 @@ qua-bcc-fcc-hcp.py：批量构建不同成分四元bcc、fcc和hcp合金构型
 quinary-bcc-fcc-hcp.py：批量构建不同成分五元bcc、fcc和hcp合金构型
 
 npt-MD.py：自动化执行多帧构型进行不同温度间隔MD模拟、升温或退火、MCMD模拟。
+
+deform.py：自动化执行多帧构型进行拉伸和压缩MD模拟，可修改参数包括温度、应变率和MC是否启用
