@@ -20,3 +20,5 @@ disturb.py:    晶格和原子位子微扰
 binary-bcc-fcc-hcp.py：批量构建不同成分二元bcc、fcc和hcp合金构型
 
 ternary-bcc-fcc-hcp.py：批量构建不同成分三元bcc、fcc和hcp合金构型
+
+qua-bcc-fcc-hcp.py：批量构建不同成分四元bcc、fcc和hcp合金构型
