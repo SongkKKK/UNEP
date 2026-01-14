@@ -12,7 +12,7 @@ for i, atoms in enumerate(frames):
                 f'velocity {temperature}',   
                 'time_step 2',
                 f'ensemble npt_mttk temp {temperature} {temperature} iso 0 0',
-                f'mc canonical 100 100 {temperature} {temperature}',
+                #f'mc canonical 100 100 {temperature} {temperature}',
                 'dump_exyz 10000 0 1', 
                 'run 200000']
         Morph(atoms).gpumd(dirname=dirname, run_in=run_in)
